@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"allowJs": true,
+		"outDir": "build",
+		// "declaration": true,
+		// "sourceMap": true,
+		// "removeComments": true,
+		// "noEmit": true,
+		"strict": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"noImplicitReturns": true,
+		"useUnknownInCatchVariables": true,
+		"skipLibCheck": true
+	}
+}
