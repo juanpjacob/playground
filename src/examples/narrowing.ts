@@ -129,9 +129,6 @@ function getApiSpecialPropertyFive(api: Api): string {
   if (isMule4Two(api)) {
     return api.mule4Property;
   }
-
-  console.log("dasd");
-  return "Dasd";
 }
 
 // Union types
